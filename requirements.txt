@@ -7,3 +7,4 @@ langchain-openai
 langchain-google-genai
 python-dotenv
 langchain-groq
+ipykernel
